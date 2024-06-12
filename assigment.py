@@ -8,3 +8,8 @@ print(value * base * height)
 #formula (side * side)
 multi=4 * 4
 print(multi)
+
+# area of circle
+formula=22/7 * 7 * 7
+print(formula)
+
